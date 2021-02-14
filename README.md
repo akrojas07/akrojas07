@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anakaren 
+- 👋 Hi, I’m Anakaren (An - nuh K EH - r uh n)
 - 👀 I’m interested in learning about different types of software development and new programming languages
 - 🌱 I’m currently learning Full Stack Development, with my technologies being Angular, C#, and SQL
 - 💞️ I’m looking to collaborate on open source projects that would help make tech more accessible to marginalized communities.
